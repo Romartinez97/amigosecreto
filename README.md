@@ -29,7 +29,6 @@ Se incluye un botón **"Limpiar Lista"** que borra todos los nombres agregados, 
 
 ## 🖼️ Capturas de pantalla
 
-```md
 ![Pantalla principal](assets/pantalla-inicio.png)
 ![Lista de participantes](assets/lista-amigos.png)
 ![Resultado del sorteo](assets/amigo-seleccionado.png)
