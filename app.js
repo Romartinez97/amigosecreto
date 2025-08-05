@@ -18,7 +18,7 @@ function agregarAmigo(nombreAmigo) {
     if (nombreAmigo == '') {
         alert('El nombre no puede estar vacío.');
     } else if (!regexSoloLetras.test(nombreAmigo)) {
-        alert('Por favor, ingrese un nombre válido.');
+        alert('Por favor, ingrese un nombre válido (solo caracteres alfabéticos).');
     } else {
         arrayAmigos.push(nombreAmigo);
         document.getElementById('amigo').value = '';
