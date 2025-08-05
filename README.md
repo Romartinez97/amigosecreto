@@ -29,9 +29,9 @@ Se incluye un botón **"Limpiar Lista"** que borra todos los nombres agregados, 
 
 ## 🖼️ Capturas de pantalla
 
-![Pantalla principal](assets/pantalla-inicio.png)
-![Lista de participantes](assets/lista-amigos.png)
-![Resultado del sorteo](assets/amigo-seleccionado.png)
+| Pantalla Principal | Lista de Participantes | Resultado del Sorteo |
+|:------------------:|:----------------------:|:--------------------:|
+| <img src="assets/pantalla-inicio.png" width="280"> | <img src="assets/lista-amigos.png" width="280"> | <img src="assets/amigo-seleccionado.png" width="280"> |
 
 ## 💻 Tecnologías utilizadas
 
@@ -42,8 +42,8 @@ Se incluye un botón **"Limpiar Lista"** que borra todos los nombres agregados, 
 ## 📁 Cómo clonar el proyecto
 
 ```bash
-git clone https://github.com/tuusuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/Romartinez97/amigosecreto.git
+cd amigosecreto
 ```
 
 Luego, abrí el archivo `index.html` en tu navegador.
